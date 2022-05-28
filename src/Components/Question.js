@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const Question = ({answers,question,selected,updateSelection}) => {
+const Question = ({answers,question,selected,arrayUpdate}) => {
     
     return (
         <div>
@@ -9,7 +9,7 @@ const Question = ({answers,question,selected,updateSelection}) => {
                 {answers.map((answer,index) => {
                     return <li key={index} onClick = {
                         () =>{
-                        updateSelection(answer)
+                        arrayUpdate(answer)
                         selected(answer)
                         console.log(answer)
                         }}> 

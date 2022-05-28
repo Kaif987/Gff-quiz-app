@@ -8,103 +8,33 @@ const qBank = [
     },
     {
       question:
-        "how build the app ?",
-      answers: ["vinayak", "sarthak", "somil", "devesh"],
-      correct: "vinayak",
-      questionId: "093909"
+        "Who build facebook ?",
+      answers: ["Mark zukerberg", "Elon musk", "Jack Dorsey", "Einstein"],
+      correct: "Mark zukerberg",
+      questionId: "099096"
     },
     {
       question:
-        "how build the app ?",
-      answers: ["vinayak", "sarthak", "somil", "devesh"],
-      correct: "vinayak",
-      questionId: "009039"
+        "What is the capital of turkey?",
+      answers: ["Anakara", "kathmandu", "New Delhi", "Istanbul"],
+      correct: "Ankara",
+      questionId: "099095"
     },
     {
       question:
-        "how build the app ?",
-      answers: ["vinayak", "sarthak", "somil", "devesh"],
-      correct: "vinayak",
-      questionId: "090089"
-    },
+        "Who is the president of Russia?",
+      answers: ["Vladimir Putin", "Joe biden", "Vladimir Zelenski", "Kp Oli"],
+      correct: "Vladimir Putin",
+      questionId: "099094"
+    },    
     {
       question:
-        "how build the app ?",
-      answers: ["vinayak", "sarthak", "somil", "devesh"],
-      correct: "vinayak",
-      questionId: "01010101"
+        "Who is the first education minister of India ?",
+      answers: ["Moulana Abdul Kalam Azad", "Modi ", "Yogi ", "Denesh Sharma"],
+      correct: "Moulana Abdul Kalam Azad",
+      questionId: "099092"
     },
-    {
-      question:
-        "how build the app ?",
-      answers: ["vinayak", "sarthak", "somil", "devesh"],
-      correct: "vinayak",
-      questionId: "092299"
-    },
-    {
-      question:
-        "how build the app ?",
-      answers: ["vinayak", "sarthak", "somil", "devesh"],
-      correct: "vinayak",
-      questionId: "222099"
-    },
-    {
-      question:
-        "how build the app ?",
-      answers: ["vinayak", "sarthak", "somil", "devesh"],
-      correct: "vinayak",
-      questionId: "2222099"
-    },
-    {
-      question:
-        "how build the app ?",
-      answers: ["vinayak", "sarthak", "somil", "devesh"],
-      correct: "vinayak",
-      questionId: "09922099"
-    },
-    {
-      question:
-        "how build the app ?",
-      answers: ["vinayak", "sarthak", "somil", "devesh"],
-      correct: "vinayak",
-      questionId: "222292099"
-    },
-    {
-      question:
-        "how build the app ?",
-      answers: ["vinayak", "sarthak", "somil", "devesh"],
-      correct: "vinayak",
-      questionId: "0998999099"
-    },
-    {
-      question:
-        "how build the app ?",
-      answers: ["vinayak", "sarthak", "somil", "devesh"],
-      correct: "vinayak",
-      questionId: "099093"
-    },
-    {
-      question:
-        "how build the app ?",
-      answers: ["vinayak", "sarthak", "somil", "devesh"],
-      correct: "vinayak",
-      questionId: "099099"
-    },
-    {
-      question:
-        "how build the app ?",
-      answers: ["vinayak", "sarthak", "somil", "devesh"],
-      correct: "vinayak",
-      questionId: "09459099"
-    },
-    {
-      question:
-        "how build the app ?",
-      answers: ["vinayak", "sarthak", "somil", "devesh"],
-      correct: "vinayak",
-      questionId: "0912219099"
-    },
-    
+   
   ];
     
   // n = 5 to export 5 question
